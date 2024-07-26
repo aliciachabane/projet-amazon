@@ -1,0 +1,229 @@
+body{
+
+    background-image:url(img/OIP\ \(1\).jpg);
+
+    background-size: cover;
+
+}
+
+h1{
+
+    color: rgb(2, 30, 30);
+
+}
+
+.titre{
+
+    margin-left: 500px;
+    
+    top:0;
+
+    left:0;
+
+    background-color: white;
+
+    width: 180px;
+
+    text-align: center;
+
+}
+
+.logo {
+
+    width: 100px;
+
+    height: auto;
+
+    border: 2px solid #0c0c0c;
+
+    border-radius: 50px;
+
+    box-shadow: 5px 5px 15px rgba(213, 145, 219, 0.721);
+
+    margin-bottom: 50px;
+    
+}
+
+.button{
+
+    background-color: rgb(11, 129, 232);
+
+    width:180px ;
+
+    border-radius: 20px;
+    
+    border: 2px solid #000;
+
+    align-items: center;
+
+    margin-bottom: 50px;
+
+    margin-left: 60px;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    display: flex;
+    
+    margin-top: 20px;
+
+}
+
+.p{
+
+    display: flex;
+    
+    flex-direction: column;
+
+    font-size: medium;
+
+    align-items: center;
+
+    position: absolute;
+
+    padding:10px;
+
+    font-weight: bold;
+
+    top: 50px;
+
+    margin-top: auto;
+
+    padding-bottom: 80px;
+
+    text-align: center;
+
+}
+
+.tableau1{
+
+    background-color: rgba(255, 255, 255, 0.425);
+
+    padding-right: 50px;
+
+    display: flex;
+
+    flex: 1;
+
+    margin-right: 10px;
+
+    position: relative;
+
+    float: left;
+
+    margin-top: auto;
+
+    padding-top: 50px;
+
+    text-align: center;
+
+}
+
+.T1{
+
+    width: 300px;
+
+    height: auto;
+
+    box-shadow: 5px 5px 15px rgba(224, 202, 4, 0.852);
+
+    margin-right: 100px;  
+
+    float: left;
+
+    display: flex;
+
+    margin-top: 50px;
+
+}
+
+.T2{
+
+    width: 300px;
+
+    height: auto;
+
+    box-shadow: 5px 5px 15px rgba(202, 224, 4, 0.852);
+
+    margin-right: 100px;  
+
+    float: left;
+
+    display: flex;
+
+}
+
+.T3{
+
+    width: 300px;
+
+    height: auto;
+
+    box-shadow: 5px 5px 15px rgba(239, 6, 6, 0.902);
+
+    display: flex;
+
+    margin-right: 100px;
+
+    float: left;
+
+}
+
+.T4{
+
+    width: 300px;
+
+    height: auto;
+
+    box-shadow: 5px 5px 15px rgba(27, 4, 230, 0.721);
+
+    display: flex;
+
+    margin-right: 100px;
+
+    float: left;
+
+}
+
+.T5{
+
+    width: 300px;
+
+    height: auto;
+
+    box-shadow: 5px 5px 15px rgba(27, 4, 230, 0.721);
+
+    display: flex;
+
+    margin-right: 100px;
+
+    float: left;
+
+}
+
+.button1 {
+
+    background-color: rgb(11, 129, 232);
+
+    width:180px ;
+
+    border-radius: 20px;
+    
+    border: 2px solid #000;
+
+    align-items: center;
+
+    margin-bottom: 50px;
+
+    margin-left: 10px;
+
+    flex-direction: column;
+
+    align-items: center;
+
+    display: flex;
+    
+    margin-top: 20px;
+
+}
